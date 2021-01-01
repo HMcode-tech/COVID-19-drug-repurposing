@@ -1,0 +1,100 @@
+pmid	title	journal
+33378219	Mental health conditions among the general population, healthcare workers and quarantined population during the coronavirus disease 2019 (COVID-19) pandemic.	Psychol Health Med
+33378146	COVID 19 rapid guideline: renal transplantation	COVID 19 rapid guideline: renal transplantation
+33378142	Evidence reviews for the use of vitamin D supplementation as prevention and treatment of COVID-19: Vitamin D for COVID-19: Evidence review A	Evidence reviews for the use of vitamin D supplementation as prevention and treatment of COVID-19: Vitamin D for COVID-19: Evidence review A
+33378141	Psychological Resilience in Frontline Health Care Workers During the Acute Phase of the COVID-19 Pandemic in New York City.	J Clin Psychiatry
+33378122	Mortality in hospitalized patients with cancer and coronavirus disease 2019: A systematic review and meta-analysis of cohort studies.	Cancer
+33378077	[Multiple cerebral haemorrhages secondary to disseminated intravascular coagulation in a patient with COVID-19].	Rev Neurol
+33378068	Editorial - HIV and cancer during COVID-19 pandemic: sailing through the perfect storm.	Eur Rev Med Pharmacol Sci
+33378066	Editorial - Breast cancer: awake surgery as strategy during second COVID-19 lockdown?	Eur Rev Med Pharmacol Sci
+33378061	Prevalence of liver injury and correlation with clinical outcomes in patients with COVID-19: systematic review with meta-analysis.	Eur Rev Med Pharmacol Sci
+33378060	Predictors of mechanical ventilation for COVID-19: combined data from three designated hospitals.	Eur Rev Med Pharmacol Sci
+33378059	Consideration of immunomodulatory actions of morphine in COVID-19 - Short report.	Eur Rev Med Pharmacol Sci
+33378055	Comparing the influence of gender stereotypes on well-being in Italy and Turkey during the COVID-19 lockdown.	Eur Rev Med Pharmacol Sci
+33378008	COVID-19 in Still's disease.	Eur Rev Med Pharmacol Sci
+33377984	What It Will Take to Equitably Distribute a COVID-19 Vaccine.	J Gerontol Nurs
+33377979	Medication Safety in Older Adults: Learning From 2020 as We Launch into 2021.	J Gerontol Nurs
+33377975	Longitudinal Examination of COVID-19 Public Health Measures on Mental Health for Rural Patients With Serious Mental Illness.	Mil Med
+33377967	The Hidden Epidemic of Opioid Overdoses During the Coronavirus Disease 2019 Pandemic.	JAMA Psychiatry
+33377954	Videolaryngoscopy Intubation in Patients with COVID-19.	Anesthesiology
+33377937	SARS-CoV-2 infection and the antiviral innate immune response.	J Mol Cell Biol
+33377928	The development of neutralizing antibodies against SARS-CoV-2 and their common features.	J Mol Cell Biol
+33377918	Setup of a Dedicated Coronavirus Intensive Care Unit.	Anesthesiology
+33377900	COVID-19 Conspiracies and Beyond: How Physicians Can Deal With Patients' Misinformation.	JAMA
+33377892	Implementing a National Otolaryngology Residency Interview Calendar-Planning for Uncertainty During the COVID-19 Pandemic.	JAMA Otolaryngol Head Neck Surg
+33377890	Parosmia is prevalent and persistent amongst those with COVID-19 olfactory dysfunction.	Rhinology
+33377889	A Clinical and Procedural Guideline for Gastrointestinal Endoscopy Units during COVID-19 Pandemic Era.	Acta Med Indones
+33377888	COVID-19 in Indonesia: Challenges and Multidisciplinary Perspectives for a Safe and Productive New Normal.	Acta Med Indones
+33377885	COVID-19 Vaccines: Current Status and Implication for Use in Indonesia.	Acta Med Indones
+33377847	Restructuring emergency eye services during COVID-19 in a tertiary referral centre.	Br J Hosp Med (Lond)
+33377817	The association of previous influenza vaccination and coronavirus disease-2019.	Hum Vaccin Immunother
+33377752	COVID-19 Pandemic: Nephrology Experiences - Voices from the Frontlines: Part 3.	Nephrol Nurs J
+33377751	Helping Patients and Health Care Providers Through the COVID-19 Pandemic: Empirically Based Tips and Strategies to Manage Mental and Physical Health.	Nephrol Nurs J
+33377248	Differential Effects of SARS-CoV-2 Pandemic on Patients Presenting to a Neurological Emergency Room Depending on Their Triage Score in an Area with low COVID-19 Incidence.	Eur J Neurol
+33377244	Comment on: "Challenges and solutions for the future of UK dermatology undergraduate curriculum delivery".	Clin Exp Dermatol
+33377239	The hyperdynamic circulatory profile of patients with COVID-19-related AVDS. Letter regarding the article untitled" Haemodynamic characteristics of COVID-19 patients with acute respiratory distress syndrome requiring mechanical ventilation. An invasive assessment using right heart catheterization".	Eur J Heart Fail
+33377237	Correspondence to: "COVID19 and education: restructuring after the pandemic".	Transpl Int
+33377226	Microscopy-based assay for semi-quantitative detection of SARS-CoV-2 specific antibodies in human sera: A semi-quantitative, high throughput, microscopy-based assay expands existing approaches to measure SARS-CoV-2 specific antibody levels in human sera.	Bioessays
+33377218	INHALEd nebulised unfractionated HEParin for the treatment of hospitalised patients with COVID-19 (INHALE-HEP): Protocol and Statistical Analysis Plan for an investigator-initiated international meta-trial of randomised studies.	Br J Clin Pharmacol
+33377206	COVID-19 ARDS: Intriguing hemodynamics of an intriguing syndrome.	Eur J Heart Fail
+33377168	COVID-19 and policy changes for kidney disease: the need for a 'decade of the kidney'.	Nephrol Dial Transplant
+33377145	Evolutionary and codon usage preference insights into spike glycoprotein of SARS-CoV-2.	Brief Bioinform
+33377122	Hydroxychloroquine Inhibits the Trained Innate Immune Response to Interferons.	Cell Rep Med
+33376185	Cross-sectional analysis to explore the awareness, attitudes and actions of UK adults at high risk of severe illness from COVID-19.	BMJ Open
+33376182	Indigenous communities' responses to the COVID-19 pandemic and consequences for maternal and neonatal health in remote Peruvian Amazon: a qualitative study based on routine programme supervision.	BMJ Open
+33376107	Ethical principles and a practical approach to support policy making through the next phases of the COVID-19 pandemic and beyond.	Clin Med (Lond)
+33376088	Covid-19: Should vaccine trials be unblinded?	BMJ
+33376087	Covid-19: Expedite vaccination or deaths will surge, researchers warn.	BMJ
+33376052	Safety in the use of ultrasound in rheumatology during the COVID-19 Pandemic. Spanish Society of Rheumatology positioning paper.	Reumatol Clin
+33376043	Lycorine, a non-nucleoside RNA dependent RNA polymerase inhibitor, as potential treatment for emerging coronavirus infections.	Phytomedicine
+33376008	Clinical and laboratory findings of COVID-19: A systematic review and meta-analysis.	J Formos Med Assoc
+33375986	Impacts of COVID-19 on residential treatment programs for substance use disorder.	J Subst Abuse Treat
+33375935	Parkinson's disease following COVID-19: causal link or chance occurrence?	J Transl Med
+33375932	Correction to: A randomized, open-label, adaptive, proof-of-concept clinical trial of modulation of host thromboinflammatory response in patients with COVID-19: the DAWn-Antico study.	Trials
+33375928	Uncommon presentation of allergic bronchopulmonary aspergillosis during the COVID-19 lockdown: a case report.	BMC Pulm Med
+33375917	Impacts of the COVID-19 outbreak on visits and treatments for patients with ureteral stones in a general hospital emergency department.	Urologia
+33375893	Endotracheal Tube Obstruction Among Patients Mechanically Ventilated for ARDS Due to COVID-19: A Case Series.	J Intensive Care Med
+33375883	Effectiveness of Government Policies in Controlling COVID-19 in India.	Int J Health Serv
+33375876	Progress in understanding COVID-19: insights from the omics approach.	Crit Rev Clin Lab Sci
+33375865	Estimating the susceptibility to SARS-CoV-2 infection with rituximab use for pemphigus vulgaris.	J Dermatolog Treat
+33375857	Development of a Family-Friendly System for Japanese Parents Infected With COVID-19.	Asia Pac J Public Health
+33375843	The Significance of Antiseptic Techniques During the COVID-19 Pandemic: Joseph Lister's Historical Contribution to Surgery.	Am Surg
+33375763	The Italian COVID-19 Psychological Research Consortium (IT C19PRC): General Overview and Replication of the UK Study.	J Clin Med
+33375707	The Role of Methemoglobin and Carboxyhemoglobin in COVID-19: A Review.	J Clin Med
+33375692	Nutraceutical Strategies for Suppressing NLRP3 Inflammasome Activation: Pertinence to the Management of COVID-19 and Beyond.	Nutrients
+33375677	Platforms Exploited for SARS-CoV-2 Vaccine Development.	Vaccines (Basel)
+33375676	Cardiovascular Comorbidities and Pharmacological Treatments of COVID-19 Patients Not Requiring Hospitalization.	Int J Environ Res Public Health
+33375208	Development of Case Numbers during the COVID-19 Pandemic in a Center of Maximum-Care for Traumatology and Orthopedic Oncology.	Healthcare (Basel)
+33375194	Infections and Immunotherapy in Lung Cancer: A Bad Relationship?	Int J Mol Sci
+33375175	C-type Lectin CD209L/L-SIGN and CD209/DC-SIGN: Cell Adhesion Molecules Turned to Pathogen Recognition Receptors.	Biology (Basel)
+33375158	Impact of the First COVID-19 Lockdown on Management of Pet Dogs in the UK.	Animals (Basel)
+33375155	Plant-Based Vaccines: The Way Ahead?	Viruses
+33375040	Triage of Patients Suspected of COVID-19 in Chronic Hemodialysis: Eosinophil Count Differentiates Low and High Suspicion of COVID-19.	J Clin Med
+33374998	Measles and Rubella during COVID-19 Pandemic: Future Challenges in Japan.	Int J Environ Res Public Health
+33374149	Fucoidan and Lung Function: Value in Viral Infection.	Mar Drugs
+33374131	Clinical Presentation, Course, and Risk Factors Associated with Mortality in a Severe Outbreak of COVID-19 in Rhode Island, USA, April-June 2020.	Pathogens
+33374109	Physical Activity Recommendations during COVID-19: Narrative Review.	Int J Environ Res Public Health
+33374092	Reflections as 2020 comes to an end: the editing and educational environment during the COVID-19 pandemic, the power of Scopus and Web of Science in scholarly publishing, journal statistics, and appreciation to reviewers and volunteers.	J Educ Eval Health Prof
+33374002	Predictors of hospital-acquired bacterial and fungal superinfections in COVID-19: a prospective observational study.	J Antimicrob Chemother
+33373996	Problems and Solutions Due to Mental Anxiety of IT Professionals Work at Home during COVID-19.	Psychiatr Danub
+33373995	Prospective Impact of COVID-19 on Adolescents: Guidelines for Interventions.	Psychiatr Danub
+33373994	From Lockdown to Release: The Impact of Different Phases of COVID-19 Pandemic on People Suffering from Psychiatric Disorders.	Psychiatr Danub
+33373993	Mental Health Situation in Pakistan during the COVID-19 Pandemic.	Psychiatr Danub
+33373992	Mental Health Crisis in Pregnant Women during Current COVID-19 Pandemic.	Psychiatr Danub
+33373991	Parental Mental Health Crisis during COVID-19 Pandemic.	Psychiatr Danub
+33373990	Meeting the Unmet Mental Health Needs during COVID-19: Where Does Telemedicine Stands during These Times in India?	Psychiatr Danub
+33373989	Pandemic Events and Psychiatry: Some Specificities and Singularities in COVID-19.	Psychiatr Danub
+33373988	Psychosocial Consequences of COVID-19 on Sex Workers: A Global Perspective.	Psychiatr Danub
+33373987	The Post-Traumatic Stress Disorder Impact of the COVID-19 Pandemic.	Psychiatr Danub
+33373925	Clinical characteristics and treatment outcome of COVID-19 patients with stroke in China: A multicenter retrospective study.	Phytomedicine
+33373898	Air pollutant variations in Suzhou during the 2019 novel coronavirus (COVID-19) lockdown of 2020: High time-resolution measurements of aerosol chemical compositions and source apportionment.	Environ Pollut
+33373874	Correlates of psychological distress in epileptic patients during the COVID-19 outbreak.	Epilepsy Behav
+33373808	An overview of current mental health in the general population of Australia during the COVID-19 pandemic: Results from the COLLATE project.	Psychiatry Res
+33373803	Pneumonia surveillance and its attendant clinical risk stratification for COVID-19 in low-risk patients.	Public Health
+33373720	Airway management in patients with COVID-19: beyond the first endotracheal intubation.	Anaesth Crit Care Pain Med
+33373693	Spike glycoproteins: Their significance for corona viruses and receptor binding activities for pathogenesis and viral survival.	Microb Pathog
+33373681	COVID-19, ferrosenescence and neurodegeneration, a mini-review.	Prog Neuropsychopharmacol Biol Psychiatry
+33373680	Younger people are more vulnerable to stress, anxiety and depression during COVID-19 pandemic: A global cross-sectional survey.	Prog Neuropsychopharmacol Biol Psychiatry
+33373652	Prior SARS-CoV-2 infection is associated with protection against symptomatic reinfection.	J Infect
+33373651	Sofosbuvir/daclatasvir in the treatment of COVID-19 infection: a meta-analysis.	J Infect
+33373650	Post-COVID-19 functional status six-months after Hospitalization.: Functional status after COVID-19.	J Infect
